@@ -917,7 +917,7 @@ Formulas fall into two distinct categories:
 
 ### Two-Sided Color Bar
 
-![Two-Sided Color Bar (Curves)](images/Tutti-Frutti-Lab-Curves.png)
+![Two-Sided Color Bar (Curves)](images/Two-Sided-Color-Bar-Curves.png)
 
 ![Two-Sided Color Bar](images/Two-Sided-Color-Bar.png)
 

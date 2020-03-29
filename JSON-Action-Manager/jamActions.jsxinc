@@ -676,7 +676,7 @@ if (typeof jamActions !== 'object')
                     break;
             }
             return dialogMode;
-        }
+        };
         //
         var globalCommandHandler = null;
         //

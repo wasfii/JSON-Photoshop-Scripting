@@ -1260,7 +1260,7 @@ if (typeof jamColors !== 'object')
                 throw new Error ("[jamColors.colorToRgb] Invalid syntax");
             }
             return rgb;
-        }
+        };
         //
         function limit (value, min, max)
         {

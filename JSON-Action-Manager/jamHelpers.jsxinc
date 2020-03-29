@@ -884,7 +884,7 @@ if (typeof jamHelpers !== 'object')
                         gradient.push (gradientDesc["showTransparency"][1]);
                         gradient.push (gradientDesc["vectorColor"][1]);
                         gradient.push (gradientDesc["smoothness"][1]);
-                        var colorSpace = gradientDesc["colorSpace"][1][1]
+                        var colorSpace = gradientDesc["colorSpace"][1][1];
                         gradient.push (colorSpace);
                         switch (colorSpace)
                         {
